@@ -1,0 +1,19 @@
+c:\users\usuario\onedrive - student ambassadors\documents\visual studio 2013\Projects\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+c:\users\usuario\onedrive - student ambassadors\documents\visual studio 2013\Projects\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe
+c:\users\usuario\onedrive - student ambassadors\documents\visual studio 2013\Projects\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.pdb
+c:\users\usuario\onedrive - student ambassadors\documents\visual studio 2013\Projects\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.Form1.resources
+c:\users\usuario\onedrive - student ambassadors\documents\visual studio 2013\Projects\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.Properties.Resources.resources
+c:\users\usuario\onedrive - student ambassadors\documents\visual studio 2013\Projects\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.GenerateResource.Cache
+c:\users\usuario\onedrive - student ambassadors\documents\visual studio 2013\Projects\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.exe
+c:\users\usuario\onedrive - student ambassadors\documents\visual studio 2013\Projects\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.pdb
+c:\users\usuario\onedrive - student ambassadors\documents\visual studio 2013\Projects\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csprojResolveAssemblyReference.cache
+C:\Users\Asvins\Documents\324 Sistemas Multimedia\2doParcial\3ra pregunta\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\Users\Asvins\Documents\324 Sistemas Multimedia\2doParcial\3ra pregunta\Ejercicio3\bin\Debug\Ejercicio3.exe
+C:\Users\Asvins\Documents\324 Sistemas Multimedia\2doParcial\3ra pregunta\Ejercicio3\bin\Debug\Ejercicio3.pdb
+C:\Users\Asvins\Documents\324 Sistemas Multimedia\2doParcial\3ra pregunta\Ejercicio3\obj\Debug\Ejercicio3.csproj.AssemblyReference.cache
+C:\Users\Asvins\Documents\324 Sistemas Multimedia\2doParcial\3ra pregunta\Ejercicio3\obj\Debug\Ejercicio3.Form1.resources
+C:\Users\Asvins\Documents\324 Sistemas Multimedia\2doParcial\3ra pregunta\Ejercicio3\obj\Debug\Ejercicio3.Properties.Resources.resources
+C:\Users\Asvins\Documents\324 Sistemas Multimedia\2doParcial\3ra pregunta\Ejercicio3\obj\Debug\Ejercicio3.csproj.GenerateResource.cache
+C:\Users\Asvins\Documents\324 Sistemas Multimedia\2doParcial\3ra pregunta\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\Asvins\Documents\324 Sistemas Multimedia\2doParcial\3ra pregunta\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\Users\Asvins\Documents\324 Sistemas Multimedia\2doParcial\3ra pregunta\Ejercicio3\obj\Debug\Ejercicio3.pdb
